@@ -1,0 +1,22 @@
+{
+    "stores": [
+        {"id":1, "name": "Rocket Fizz"},
+        {"id":2, "name": "Goo Goo Shop"},
+        {"id":3, "name":"Dylan's Candy Bar"}
+    ],
+    "employees": [
+        {"id":1, "name": "Bob Smith"},
+        {"id":2, "name": "Alyssa Lee"},
+        {"id":3, "name": "Zoe Johnson"}
+    ],
+    "candyTypes": [
+        {"id":1, "name": "chocolate"},
+        {"id":2, "name": "sour"},
+        {"id":3, "name": "fruity"}
+    ],
+    "candies": [
+        {"id":1, "name": "M&Ms", "candyTypeId": 1},
+        {"id":2, "name": "Air Heads", "candyTypeId": 3},
+        {"id":3, "name": "Kit Kat", "candyTypeId":1}
+    ]
+}
